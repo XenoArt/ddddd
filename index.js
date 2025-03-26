@@ -17,8 +17,8 @@ app.listen(PORT, () => {
 
 function createBot() {
     bot = mineflayer.createBot({
-        host: "pzdcaaa.aternos.me", // Aternos server IP
-        port: 41405, // Server port
+        host: "mamashenilolshiD.aternos.me", // Aternos server IP
+        port: 54015, // Server port
         username: "YleBot", // Bot name
         version: "1.21.4" // Minecraft version
     });
